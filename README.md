@@ -1,6 +1,6 @@
-# 📊 Vendor Value Analysis
+# 📊 Vendor Performance Analysis
 
-A complete end-to-end data analysis pipeline to evaluate and optimize vendor and inventory performance in a retail environment using Python, SQL, Power BI, and statistical methods.
+A complete end-to-end data analysis pipeline to evaluate and optimise vendor and inventory performance in a retail environment using Python, SQL, Power BI, and statistical methods.
 
 ---
 
@@ -32,7 +32,7 @@ A complete end-to-end data analysis pipeline to evaluate and optimize vendor and
 ├── ingestion_db.py # CSV to DB ingestion script
 ├── get_vendor_summary.py # SQL-based summary generation and cleanup
 ├── vendor_sales_summary.csv # Final output dataset
-├── Vendor Performance Analysis.ipynb
+├── Vendor Value Analysis.ipynb
 ├── Exploratory Data Analysis.ipynb
 ├── vendor_performance.pbix # Power BI dashboard file
 
